@@ -1,7 +1,7 @@
 version: '3'
 services:
   app:
-    image: engineer442/spring-boot-application:latest
+    image: amrit1329/spring-boot-application:latest
     ports:
       - "8080"
     networks:
